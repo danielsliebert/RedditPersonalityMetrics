@@ -25,9 +25,9 @@ output_handle.close()
 
 
 personality_insights = PersonalityInsightsV3(
-    version='2016-10-20',
-    username='',
-    password='',
+    #version='2016-10-20',
+    username='59b9f439-b3d9-4308-b384-2427606eff09',
+    password='mhXXDFI8Ep3g',
     x_watson_learning_opt_out=True
 )
 
