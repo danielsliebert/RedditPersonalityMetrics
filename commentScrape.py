@@ -10,11 +10,11 @@ userscrape = sys.argv[1]
 output_handle = open(userscrape + ".txt", "w")
 
 # Create reddit instance
-r = praw.Reddit(client_id='',
-                client_secret='',
-                password='',
+r = praw.Reddit(client_id='MGO4o5cR0fs5WQ',
+                client_secret='c_VLGjmD_zYmmbohcqlKSO1uq8Y',
+                password='W4Qu5cqT6J!',
                 user_agent='personality metrics from reddit comments',
-                username='')
+                username='personalitymetrics')
 
 user = r.redditor(userscrape)
 # Print out all new comments (Max limit = 1000 per API)
