@@ -1,3 +1,5 @@
+![Amazon Logo](https://i.imgur.com/FkTNPN8.png)
+
 # RedditPersonalityMetrics
 
 RedditPersonalityMetrics is a tool for analyzing a Reddit user's personality by feeding scraping and feeding their comments into IBM Watson Personality Insights api. Personality Insights returns various dimensions of personality analyzed from the text like extroversion, openness, conscientious, and neuroticism.
