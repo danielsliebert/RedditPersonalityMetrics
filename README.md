@@ -1,4 +1,4 @@
-![Amazon Logo](https://i.imgur.com/FkTNPN8.png)
+![Amazon Logo](https://i.imgur.com/idvelU9.png)
 
 # RedditPersonalityMetrics
 
